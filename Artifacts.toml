@@ -1,69 +1,69 @@
 [[GAP_pkg_cddinterface]]
 arch = "aarch64"
-git-tree-sha1 = "4a6d1b832ce067206afbb0e084ca86990e990619"
+git-tree-sha1 = "6df48332ace994dedd352de3ebfbf1840aae6ab0"
 os = "macos"
 
     [[GAP_pkg_cddinterface.download]]
-    sha256 = "9bcfc41b4298a23a891b8167dbe7388b5c2ec8d07f8d614cad7dc767af574149"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202200.1100.101+0/GAP_pkg_cddinterface.v202200.1100.101.aarch64-apple-darwin.tar.gz"
+    sha256 = "b8a07ad84bfe098986bf4d9a81a0a159742df0dcd6d23ec527473e251cfea381"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202400.900.200+0/GAP_pkg_cddinterface.v202400.900.200.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_cddinterface]]
 arch = "aarch64"
-git-tree-sha1 = "27bafefd9acc0056172f78078ad9d10d518231c8"
+git-tree-sha1 = "b338a37e2fdea1843ad769fbbda9216ceea02ca2"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_cddinterface.download]]
-    sha256 = "1fbc652a598471446f0e9894b515a412273dc984a329e54d7b74f011105f7cfb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202200.1100.101+0/GAP_pkg_cddinterface.v202200.1100.101.aarch64-linux-gnu.tar.gz"
+    sha256 = "2bb55c642c661570ccc9a11bdf9c4b4ed697bbab58c6f6d62ddf6ede385b49eb"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202400.900.200+0/GAP_pkg_cddinterface.v202400.900.200.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_cddinterface]]
 arch = "aarch64"
-git-tree-sha1 = "2d4408d16635428c467d78f443263ade12ade55f"
+git-tree-sha1 = "774b256c6ca141dee4d35dfbdae338b3ebc50963"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_cddinterface.download]]
-    sha256 = "d6194b11c9d9e55af6b0bc530976f9d19089155bd2302de28da07378524564c9"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202200.1100.101+0/GAP_pkg_cddinterface.v202200.1100.101.aarch64-linux-musl.tar.gz"
+    sha256 = "957cd260f28d3501fa93dad77ffe8268fc719f9cff32441b81bd432c6bd96a2f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202400.900.200+0/GAP_pkg_cddinterface.v202400.900.200.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_cddinterface]]
 arch = "powerpc64le"
-git-tree-sha1 = "0eb69714a99e88970a8b08c1ddc26de5a964af20"
+git-tree-sha1 = "8829d6a3e980522e02937d421948ee6a55009e1f"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_cddinterface.download]]
-    sha256 = "f1fa789af756f94dadbc01b6b50dfc17c819bf39c561cd1badfa353b0bf9c044"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202200.1100.101+0/GAP_pkg_cddinterface.v202200.1100.101.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d243a691886f70a92005270146ccf4af752a18ed4fbf37444288afd37be686d0"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202400.900.200+0/GAP_pkg_cddinterface.v202400.900.200.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_cddinterface]]
 arch = "x86_64"
-git-tree-sha1 = "f6223daac801b02b4739b8c64cd9b82f3be577e6"
+git-tree-sha1 = "3d0186aa75b9240187b57d6c6214dbbca829df28"
 os = "macos"
 
     [[GAP_pkg_cddinterface.download]]
-    sha256 = "8f6d0363da2b6f43ea746db9883575b9cefeb464099d1ef072cef9877efa0a7a"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202200.1100.101+0/GAP_pkg_cddinterface.v202200.1100.101.x86_64-apple-darwin.tar.gz"
+    sha256 = "c97c79a9eb905efaaeb7f57f7458a4dd42766c641864f4b5796a1b1c3d02cff6"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202400.900.200+0/GAP_pkg_cddinterface.v202400.900.200.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_cddinterface]]
 arch = "x86_64"
-git-tree-sha1 = "ada6e8458d7df3b313f8b3de64677b4e53951c2c"
+git-tree-sha1 = "f07c04d2c216d42075bd7e937dd7057af6d9c8f4"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_cddinterface.download]]
-    sha256 = "fb87e8e11151308bb19fc65e1e946466cc8e82d41c7c149ba195eedca39a8460"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202200.1100.101+0/GAP_pkg_cddinterface.v202200.1100.101.x86_64-linux-gnu.tar.gz"
+    sha256 = "2bcc2c1ef4cc973b75f3f998d01021cb39442550b560968721da021639203c4a"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202400.900.200+0/GAP_pkg_cddinterface.v202400.900.200.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_cddinterface]]
 arch = "x86_64"
-git-tree-sha1 = "266e09e952a804a4ba6225e0bc9c8ac680004208"
+git-tree-sha1 = "8accf49659a77bb063042c046680350afe1a16f2"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_cddinterface.download]]
-    sha256 = "99a317ef484c3abbe7cd704072f6536e116815f6c59f506c3980aaf4985350eb"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202200.1100.101+0/GAP_pkg_cddinterface.v202200.1100.101.x86_64-linux-musl.tar.gz"
+    sha256 = "61d00fcbc47a9826916e2121e1e8a9b6f460595783394ab6260ed583bab673c5"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202400.900.200+0/GAP_pkg_cddinterface.v202400.900.200.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_cddinterface]]
 arch = "x86_64"
-git-tree-sha1 = "7dde9ceb88653c9d8b8509ebf67e84d2032c7846"
+git-tree-sha1 = "430892a3dc2a549989c2b8cab5e0055b93cc0f27"
 os = "freebsd"
 
     [[GAP_pkg_cddinterface.download]]
-    sha256 = "178f8d824e28cad732145eac45f634567ec75619d6301a1af06f3641b4a14683"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202200.1100.101+0/GAP_pkg_cddinterface.v202200.1100.101.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "7fb0a124c50780203b121b92e2ed0024da7b3469fe97a85213549fe8151cf3a9"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_cddinterface_jll.jl/releases/download/GAP_pkg_cddinterface-v202400.900.200+0/GAP_pkg_cddinterface.v202400.900.200.x86_64-unknown-freebsd.tar.gz"
