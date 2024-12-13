@@ -1,6 +1,6 @@
 name = "GAP_pkg_cddinterface_jll"
 uuid = "edf6cd94-1a94-567d-837e-37d1f3b87eed"
-version = "202400.900.200+1"
+version = "202400.900.200+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
