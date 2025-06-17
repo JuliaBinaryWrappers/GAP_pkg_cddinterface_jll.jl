@@ -2,13 +2,12 @@
 export CddInterface
 
 using GAP_jll
-using GAP_lib_jll
 using GMP_jll
 using cddlib_jll
 JLLWrappers.@generate_wrapper_header("GAP_pkg_cddinterface")
 JLLWrappers.@declare_file_product(CddInterface)
 function __init__()
-    JLLWrappers.@generate_init_header(GAP_jll, GAP_lib_jll, GMP_jll, cddlib_jll)
+    JLLWrappers.@generate_init_header(GAP_jll, GMP_jll, cddlib_jll)
     JLLWrappers.@init_file_product(
         CddInterface,
         "lib/gap/CddInterface.so",
